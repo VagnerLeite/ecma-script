@@ -1,1 +1,5 @@
-alert('teste');
+class TodoList {
+    constructor() {
+        
+    }
+}
